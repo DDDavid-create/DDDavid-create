@@ -62,18 +62,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dudidev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="210" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dudidev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="210" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dudidev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="210" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dudidev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="210" alt="languages graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=dudidev&theme=dark_lover&column=2&row=2&margin-w=5&margin-h=2" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dudidev/dudidev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dudidev/dudidev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dudidev/dudidev/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
