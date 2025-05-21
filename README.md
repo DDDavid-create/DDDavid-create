@@ -1,16 +1,8 @@
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-
-###
-
 <h1 align="center">Hey, cómo vamos?👋</h1>
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dudidev.dudidev&left_color=darkslateblue&right_color=chocolate&left_text=lindos"  />
-</div>
+<h2 align="center">I'm Duvier David from Colombia</h2>
 
 ###
 
@@ -30,7 +22,7 @@
 
 ###
 
-<h3 align="left">I'm Duvier David from Colombia<br>I'm a apassionate full-stack developer<br><br>- 📚 I'm currently learning Java, React and Node.js<br>- ⚡ In my free time I play videogames and watch series</h3>
+<h3 align="left">I'm a apassionate full-stack developer<br><br>- 📚 I'm currently learning Java, React and Node.js<br>- ⚡ In my free time I play videogames and watch series</h3>
 
 ###
 
@@ -65,7 +57,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dudidev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="210" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dudidev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="210" alt="languages graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=dudidev&theme=dark_lover&column=2&row=2&margin-w=5&margin-h=2" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=dudidev&theme=dark_lover&column=3&row=2&margin-w=5&margin-h=2" height="150" alt="trophy graph"  />
 </div>
 
 ###
